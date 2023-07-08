@@ -10,7 +10,7 @@ Analysis on the data:
 
 References:
 1. Github Pymaceuticals_Analysis Salllym - https://github.com/Salllym/Pymaceuticals_Analysis/blob/main/Pymaceuticals/pymaceuticals_starter.ipynb Accessed 7/8/23
-Comment: I looked at this code to check my code, however I did not use the code. The coding in particular on the box plot was incomplete.
+Comment: I looked at this code to check my code, however I did not use the code.
 2. AskBCS, Slack - Accessed on 7/6/23 and 7/7/23.
 3. DV Tutor Asiha Braxton-Garvin, Zoom - Accessed on 7/8/23
 4. Geeks for Geeks - 'isin' https://www.geeksforgeeks.org/python-pandas-dataframe-isin/# - Accessed on 7/6/23
